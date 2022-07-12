@@ -37,28 +37,25 @@ The data reflects that the majority of of trips started and ended in higher tour
 <img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Top_Ending_Locations.png" width=49% height=50%>
 </p>
 
-
-This heatmap below of times where trips were initiated further supports the commuter usage. 
 <br>
+<br>
+This heatmap below of times when trips were initiated further supports the commuter usage. 
 <br>
 <img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Trips_by_Weekday_per_Hour.png">
 <br>
 <br>
 
-
-while this second image is the district summary dataframe with the scores changed to Nans.
+Keeping with the gender analysis, the below heat map shows times for trips for male and female users show no huge variance.
 <br>
-<br>
-<img src="https://github.com/Bulzeye89/School_District_Analaysis/blob/main/Resources/Challenge%20District_summary_df.png">
-
+<img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Trips_by_Gender_weekday_per_Hour.png">
 <br>
 <br>
 
-The school summary saw similar miniscule changes that can be seen below.
-<p float="left">
-<img src="https://github.com/Bulzeye89/School_District_Analaysis/blob/main/Resources/Module%20per%20school%20summary%20df.png" width=40% height=50%>
-<img src="https://github.com/Bulzeye89/School_District_Analaysis/blob/main/Resources/Challenge%20per%20school%20summary%20df.png" width=40% height=50%>
-</p>
+Regular maintenance and repairs must be part of the budget plan.  Bikes in the higher usage areas will need to be cycled in and out.
+<br>
+<img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Bike_Repairs.png">
+<br>
+<br>
 
 <br>
 <br>
