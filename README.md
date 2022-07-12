@@ -38,11 +38,14 @@ The data reflects that the majority of of trips started and ended in higher tour
 </p>
 
 
-After refactoring the original code to replace Thomas High school ninth graders reading and math scores, we reviewed the results and saw that was only miniscule changes.  The image shows the district summary dataframe with the scores included,  
+This heatmap below of times where trips were initiated further supports the commuter usage. 
+<br>
+<br>
+<img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Trips_by_Weekday_per_Hour.png">
+<br>
+<br>
 
-<img src="https://github.com/Bulzeye89/School_District_Analaysis/blob/main/Resources/Module%20District_Summary_df.png">
-<br>
-<br>
+
 while this second image is the district summary dataframe with the scores changed to Nans.
 <br>
 <br>
