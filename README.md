@@ -7,7 +7,7 @@ The purpose of this analysis is to give potential investors insights into a bike
   
 
 ### Tabelau Public Story 
-[link to dashboard]("https://public.tableau.com/app/profile/scott.miller6682/viz/Bulzeye89NYCCitibikeChallenge/NYCCitiBikeStory?publish=yes)
+[NYC Citibike Challenge - Tableau Public]("https://public.tableau.com/app/profile/scott.miller6682/viz/Bulzeye89NYCCitibikeChallenge/NYCCitiBikeStory?publish=yes)
 
 
 ## Results
