@@ -14,7 +14,7 @@ The purpose of this analysis is to give potential investors insights into a bike
 For the purpose of this analysis, NYC citibike data from August of 2019 was used from a csv file.  Unfortunately, the file was too large to upload here.  The data was initially cleaned up by loading it into a jupyter timebook and converting the tripduration column from an integer datatype to a date time datatype.  This [ipynb file](https://github.com/Bulzeye89/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb) can be found here. From here, the data was uploaded to Tableau for further analysis and the rendering of the below charts.  
 
 
-The NYC data reveals a rather large portion of trips are taken by male subscribers.  
+The NYC data reveals a rather large portion of the trips are taken by male subscribers.  
 <p>
 <img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/User_Trips_by_Gender_by_Weekday.png">
 </p>
@@ -22,19 +22,20 @@ The NYC data reveals a rather large portion of trips are taken by male subscribe
 <br>
 <br>
 
+Majority of trips are under 20 minutes with very little percentage of trips lasting more than 40 minutes.  
 <p float="left">
 <img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Checkout_Times_for_Users.png" width=49% height=50%>
 <img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Checkout_Times_by_Gender.png" width=49% height=50%>
 </p>
 
-
-
-
 <br>
 <br>
 
-<img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/User_Trips_by_Gender_by_Weekday.png">
-
+The data reflects that the majority of of trips started and ended in higher tourist and commuter areas where more residential areas had lower instances of starting and ending trips.  
+<p float="left">
+<img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Top_Starting_Locations.png" width=49% height=50%>
+<img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Top_Ending_Locations.png" width=49% height=50%>
+</p>
 
 
 After refactoring the original code to replace Thomas High school ninth graders reading and math scores, we reviewed the results and saw that was only miniscule changes.  The image shows the district summary dataframe with the scores included,  
