@@ -57,22 +57,13 @@ Regular maintenance and repairs must be part of the budget plan.  Bikes in the h
 <br>
 <br>
 
+With this in mind and in an effort to minimize any disruption to the bike sharing services/availability, the hours between 2am and 5am seem to be the most ideal time for scheduled maintenance.
+<br>
+<img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/August_Peak_Hours.png">
 <br>
 <br>
 
-The results also slightly affected, by fractions of a percentage, the following:
-- Math and reading scores for 9th grade
-- Scores for medium school size when filtering by school size
-- Scores for charter schols when filtering by school type 
-<br>
 
-In addition, when running the following code:
-    
-    '# Sort and show top five schools.
-        top_schools = per_school_summary_df.sort_values(["% Overall Passing"], ascending=False)
-        top_schools.head()
-
-The removal of 461 9th grade Thomas High students' scores being changed to NaNs similarly resulted in fractional percentage differences, but Thomas High School still remained the 2nd school overall.  
 
 
 
