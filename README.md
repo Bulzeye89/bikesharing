@@ -22,7 +22,7 @@ The NYC data reveals a rather large portion of the trips are taken by male subsc
 <br>
 <br>
 
-Majority of trips are under 20 minutes with very little percentage of trips lasting more than 40 minutes.  
+Majority of trips are under 20 minutes with very little percentage of trips lasting more than 40 minutes.  This could be due to time restrictions placed on bike usage where people are trying to avoid higher or extra charges.  
 <p float="left">
 <img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Checkout_Times_for_Users.png" width=49% height=50%>
 <img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Checkout_Times_by_Gender.png" width=49% height=50%>
