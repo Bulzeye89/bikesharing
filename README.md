@@ -19,10 +19,21 @@ The NYC data reveals a rather large portion of trips are taken by male subscribe
 <img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/User_Trips_by_Gender_by_Weekday.png">
 </p>
 
+<br>
+<br>
+
+<p float="left">
+<img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Checkout_Times_for_Users.png" width=30% height=30%>
+<img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/Checkout_Times_by_Gender.png" width=30% height=30%>
+</p>
 
 
 
 
+<br>
+<br>
+
+<img src="https://github.com/Bulzeye89/bikesharing/blob/main/Resources/Charts/User_Trips_by_Gender_by_Weekday.png">
 
 
 
